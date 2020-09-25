@@ -1,0 +1,2 @@
+Run using Gradle wrapper:
+gradlew run --args="<file path>"
